@@ -1,2 +1,5 @@
 # Models.
 models/
+
+# Compiled bytecode of Python source files.
+*.pyc
