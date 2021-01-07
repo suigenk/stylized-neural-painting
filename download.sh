@@ -2,10 +2,6 @@
 #
 # Download pretrained neural renderers.
 
-# Make directory to download pretrained neural renderers & change working directory.
-mkdir -p models
-pushd models
-
 # Download & unzip .zip files.
 # 1. Neural renderers.
 gdown https://drive.google.com/uc?id=1sqWhgBKqaBJggl2A8sD1bLSq2_B1ScMG # oil-paint brush.
@@ -28,3 +24,5 @@ unzip checkpoints_G_oilpaintbrush_light.zip
 unzip checkpoints_G_rectangle_light.zip
 unzip checkpoints_G_markerpen_light.zip
 unzip checkpoints_G_watercolor_light.zip
+
+rm -rf *.zip

@@ -1,5 +1,5 @@
-# Models.
-models/
+# Checkpoints.
+checkpoints*
 
 # Compiled bytecode of Python source files.
 *.pyc
