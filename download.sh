@@ -18,7 +18,7 @@ unzip checkpoints_G_watercolor.zip
 gdown https://drive.google.com/uc?id=1kcXsx2nDF3b3ryYOwm3BjmfwET9lfFht # oil-paint brush (lightweight).
 gdown https://drive.google.com/uc?id=1FoclmDOL6d1UT12-aCDwYMcXQKSK6IWA # watercolor ink (lightweight).
 gdown https://drive.google.com/uc?id=1XsjncjlSdQh2dbZ3X1qf1M8pDc8GLbNy # marker pen (lightweight).
-gdown https://drive.google.com/uc?id=162ykmRX8TBGVRnJIof8NeqN7cuwwuzIF # color tapes (lightweight).
+gdown https://drive.google.com/uc?id=1aHyc9ukObmCeaecs8o-a6p-SCjeKlvVZ # color tapes (lightweight).
 
 unzip checkpoints_G_oilpaintbrush_light.zip
 unzip checkpoints_G_rectangle_light.zip
